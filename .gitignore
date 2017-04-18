@@ -1,0 +1,14 @@
+#Solution_File 
+/Debug/ 
+#Project_File 
+*.obj 
+*.idb 
+*.pdb 
+*.lastbuildstate 
+*.tlog 
+*.log 
+*.suo
+*.exe
+*.ilk
+*.pdb
+
